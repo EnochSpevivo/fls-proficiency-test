@@ -1,0 +1,8 @@
+{
+  "email": {
+    "host": "smtp.gmail.com",
+    "username": "learn.english.fls@gmail.com",
+    "port": "465",
+    "password": "N0drama!"
+  }
+}
