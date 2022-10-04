@@ -1,8 +1,8 @@
 {
   "email": {
     "host": "smtp.gmail.com",
-    "username": "learn.english.fls@gmail.com",
+    "username": "flsproficiencytest.dev@gmail.com",
     "port": "465",
-    "password": "N0drama!"
+    "password": "flsproficiencytest.dev15!"
   }
 }

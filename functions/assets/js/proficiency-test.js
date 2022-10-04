@@ -20,7 +20,7 @@ mainContentEl.addEventListener('click', e => {
 	}
 
 	if (clickedEl.classList.contains('pt__begin-test-button')) {
-		const postPreArrivalTest = async (userInfo) => {
+		const postPreArrivalTest = async (userInfo) => { // eslint-disable-line
 			const response = await fetch('/pre-arrival-test', { 
 				method: 'POST',
 				headers: {
